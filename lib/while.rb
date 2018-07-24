@@ -5,4 +5,4 @@ def using_while
 	  levitation_force += 1
 	 until levitation_force == 10
 end
-using_whilecd
+using_while
